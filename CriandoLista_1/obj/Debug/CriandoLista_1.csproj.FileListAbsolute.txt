@@ -1,0 +1,7 @@
+C:\Users\TREINAMENTO30\source\repos\CriandoLista_1\bin\Debug\CriandoLista_1.exe.config
+C:\Users\TREINAMENTO30\source\repos\CriandoLista_1\bin\Debug\CriandoLista_1.exe
+C:\Users\TREINAMENTO30\source\repos\CriandoLista_1\bin\Debug\CriandoLista_1.pdb
+C:\Users\TREINAMENTO30\source\repos\CriandoLista_1\obj\Debug\CriandoLista_1.csproj.AssemblyReference.cache
+C:\Users\TREINAMENTO30\source\repos\CriandoLista_1\obj\Debug\CriandoLista_1.csproj.CoreCompileInputs.cache
+C:\Users\TREINAMENTO30\source\repos\CriandoLista_1\obj\Debug\CriandoLista_1.exe
+C:\Users\TREINAMENTO30\source\repos\CriandoLista_1\obj\Debug\CriandoLista_1.pdb
